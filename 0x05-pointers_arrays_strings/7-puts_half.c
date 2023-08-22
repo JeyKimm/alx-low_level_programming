@@ -1,3 +1,7 @@
+n = (longi / 2);
+
+if ((longi % 2) == 1)
+
 #include "main.h"
 
 /**
